@@ -215,7 +215,7 @@ var AppConfigService = /** @class */ (function () {
         //staginghttp://localhost
         //apiEndpoint:string="http://185.6.181.138/HG";
         //apiEndpoint:string="http://stryve.com";
-        this.apiEndpoint = "http://stryves.000webhostapp.com";
+        this.apiEndpoint = "https://stryves.000webhostapp.com";
         // apiEndpoint:string="http://localhost/RetailerApp/retailer-app/index.php";
         // apiVersion:string="v1";
         // baseIP:string="";
